@@ -1,6 +1,6 @@
 {
   "name": "roman-number-converter",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "This simple converter will turn any Roman numerical characters and combinations into numbers.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -12,7 +12,7 @@
     "build": "npx tsc"
   },
   "author": "Ricardo Martins Doberstein",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "@babel/preset-env": "^7.20.2",
     "@babel/preset-typescript": "^7.18.6",
